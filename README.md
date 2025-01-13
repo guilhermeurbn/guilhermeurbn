@@ -1,1 +1,1 @@
-- 👋![GitHub Contribution Grid Snake](https://github.com/seu-usuario/guilhermeurbn/blob/output/github-contribution-grid-snake.svg)
+https://github.com/guilhermeurbn/guilhermeurbn/blob/output/github-contribution-grid-snake.svg)
