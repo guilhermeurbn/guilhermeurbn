@@ -2,9 +2,9 @@
 
 ### Olá, meu nome é Guilherme!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=SEU_NOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=Guilherme&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Eu sou desenvolvedor em C</p>
 
-![Snake animation](https://github.com/SEU_USERNAME/SEU_USERNAME/blob/output/github-contribution-grid-snake.svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact)](https://github.com/SEU_USERNAME)
+![Snake animation](https://github.com/guilhermeurbn/guilhermeurbn/blob/output/github-contribution-grid-snake.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeurbn&layout=compact)](https://github.com/guilhermeurbn)
