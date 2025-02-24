@@ -1,7 +1,5 @@
 ### Olá, meu nome é Guilherme!
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/guisanto?1337Badge=off&UM6P=off" alt="guisanto's 42 stats" /></a>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeurbn&layout=compact)](https://github.com/guilhermeurbn)
 
 #### 📊 GitHub Stats
